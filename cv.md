@@ -17,9 +17,9 @@ function multiply(a, b){
 ### Education:
 Belarusian State University of Economics
 ### Courses:
-HTML Academy (at the moment)
+[HTML Academy](https://htmlacademy.ru/study) (at the moment)
 ### Languages:
 * Russian - Native
-* English – Pre-Intermediate
+* English - Pre-Intermediate
 
 
